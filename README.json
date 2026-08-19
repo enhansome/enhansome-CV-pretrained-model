@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "A pre-trained model is a model created by some one else to solve a similar problem. Instead of building a model from scratch to solve a similar problem, we can use the model trained on other problem as a starting point. A pre-trained model may not be 100% accurate in your application.\nFor example, if you want to build a self learning car. You can spend years to build a decent image recognition algorithm from scratch or you can take inception model (a pre-trained model) from Google which was built on ImageNet data to identify images in those pictures.",
-      "items": [],
-      "title": "What is pre-trained Model?"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280638951,
             "language": null,
             "last_commit": "2020-07-21T01:47:52Z",
             "owner": "balavenkatesh3322",
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 280349319,
             "language": null,
             "last_commit": "2020-07-22T09:07:29Z",
             "owner": "balavenkatesh3322",
@@ -38,51 +35,12 @@
         }
       ],
       "title": "Other Pre-trained Models"
-    },
-    {
-      "description": "You can see visualizations of each model's network architecture by using Netron.\n",
-      "items": [],
-      "title": "Model visualization"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tensorflow"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Keras"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PyTorch"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Caffe"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "MXNet"
-    },
-    {
-      "description": "Your contributions are always welcome!! Please have a look at",
-      "items": [],
-      "title": "Contributions"
-    },
-    {
-      "description": "MIT License",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:32:26.919Z",
+    "last_updated": "2026-08-19T12:10:05.116Z",
     "original_repository": "balavenkatesh3322/CV-pretrained-model",
+    "original_repository_id": 279501606,
     "original_repository_sha": "d0bb8698d10b2d78ee531e85010ab423386105c1",
     "enhanced_repository": "enhansome/enhansome-CV-pretrained-model",
     "enhanced_repository_description": null,
