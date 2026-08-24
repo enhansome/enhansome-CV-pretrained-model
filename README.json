@@ -35,10 +35,1521 @@
         }
       ],
       "title": "Other Pre-trained Models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Model Serving",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 281597004,
+            "language": null,
+            "last_commit": "2020-07-22T09:13:04Z",
+            "owner": "balavenkatesh3322",
+            "repo": "model_deployment",
+            "stars": 72
+          }
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ObjectDetection",
+              "description": "Localizing and identifying multiple objects in a single image. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mask R-CNN",
+              "description": "The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107595270,
+                "language": "Python",
+                "last_commit": "2024-06-07T02:36:21Z",
+                "owner": "matterport",
+                "repo": "Mask_RCNN",
+                "stars": 25565
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Faster-RCNN",
+              "description": "This is an experimental Tensorflow implementation of Faster RCNN - a convnet for object detection with a region proposal network. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67576785,
+                "language": "Python",
+                "last_commit": "2021-10-28T09:17:08Z",
+                "owner": "smallcorgi",
+                "repo": "Faster-RCNN_TF",
+                "stars": 2342
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YOLO TensorFlow",
+              "description": "This is tensorflow implementation of the YOLO:Real-Time Object Detection. Custom",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51731516,
+                "language": "Python",
+                "last_commit": "2019-01-05T07:57:00Z",
+                "owner": "gliese581gg",
+                "repo": "YOLO_tensorflow",
+                "stars": 1708
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YOLO TensorFlow ++",
+              "description": "TensorFlow implementation of 'YOLO: Real-Time Object Detection', with training and an actual support for real-time running on mobile devices. GNU GENERAL PUBLIC LICENSE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65791375,
+                "language": "Python",
+                "last_commit": "2023-10-23T23:26:26Z",
+                "owner": "thtrieu",
+                "repo": "darkflow",
+                "stars": 6141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MobileNet",
+              "description": "MobileNets trade off between latency, size and accuracy while comparing favorably with popular models from the literature. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepLab",
+              "description": "Deep labeling for semantic image segmentation. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Colornet",
+              "description": "Neural Network to colorize grayscale images. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56582693,
+                "language": "Python",
+                "last_commit": "2020-04-21T10:17:51Z",
+                "owner": "pavelgonchar",
+                "repo": "colornet",
+                "stars": 3552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SRGAN",
+              "description": "Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88890801,
+                "language": "Python",
+                "last_commit": "2024-02-22T02:05:20Z",
+                "owner": "tensorlayer",
+                "repo": "SRGAN",
+                "stars": 3467
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepOSM",
+              "description": "Train TensorFlow neural nets with OpenStreetMap features and satellite imagery. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51717338,
+                "language": "Python",
+                "last_commit": "2017-03-13T16:09:05Z",
+                "owner": "trailbehind",
+                "repo": "DeepOSM",
+                "stars": 1330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Domain Transfer Network",
+              "description": "Implementation of Unsupervised Cross-Domain Image Generation. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77671238,
+                "language": "Python",
+                "last_commit": "2018-06-06T08:24:49Z",
+                "owner": "yunjey",
+                "repo": "domain-transfer-network",
+                "stars": 861
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Show, Attend and Tell",
+              "description": "Attention Based Image Caption Generator. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67860365,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-07-28T19:46:50Z",
+                "owner": "yunjey",
+                "repo": "show-attend-and-tell",
+                "stars": 906
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "android-yolo",
+              "description": "Real-time object detection on Android using the YOLO network, powered by TensorFlow. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75443905,
+                "language": "C++",
+                "last_commit": "2022-10-15T11:34:11Z",
+                "owner": "natanielruiz",
+                "repo": "android-yolo",
+                "stars": 691
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GAN-CLS",
+              "description": "This is an experimental tensorflow implementation of synthesizing images. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72644375,
+                "language": "Python",
+                "last_commit": "2021-01-22T07:11:25Z",
+                "owner": "zsdonghao",
+                "repo": "text-to-image",
+                "stars": 600
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "U-Net",
+              "description": "For Brain Tumor Segmentation. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93423279,
+                "language": "Python",
+                "last_commit": "2019-08-17T21:55:15Z",
+                "owner": "zsdonghao",
+                "repo": "u-net-brain-tumor",
+                "stars": 534
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Improved CycleGAN",
+              "description": "Unpaired Image to Image Translation. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104489821,
+                "language": "Python",
+                "last_commit": "2018-07-16T08:30:50Z",
+                "owner": "luoxier",
+                "repo": "CycleGAN_Tensorlayer",
+                "stars": 88
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Im2txt",
+              "description": "Image-to-text neural network for image captioning. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SLIM",
+              "description": "Image classification models in TF-Slim. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DELF",
+              "description": "Deep local features for image matching and retrieval. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Compression",
+              "description": "Compressing and decompressing images using a pre-trained Residual GRU network. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AttentionOCR",
+              "description": "A model for real-world image text extraction. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51117837,
+                "language": "Python",
+                "last_commit": "2026-08-21T16:27:30Z",
+                "owner": "tensorflow",
+                "repo": "models",
+                "stars": 77648
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tensorflow"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Mask R-CNN",
+              "description": "The model generates bounding boxes and segmentation masks for each instance of an object in the image. It's based on Feature Pyramid Network (FPN) and a ResNet101 backbone. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107595270,
+                "language": "Python",
+                "last_commit": "2024-06-07T02:36:21Z",
+                "owner": "matterport",
+                "repo": "Mask_RCNN",
+                "stars": 25565
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VGG16",
+              "description": "Very Deep Convolutional Networks for Large-Scale Image Recognition. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135753620,
+                "language": "Python",
+                "last_commit": "2022-02-17T22:37:33Z",
+                "owner": "keras-team",
+                "repo": "keras-applications",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VGG19",
+              "description": "Very Deep Convolutional Networks for Large-Scale Image Recognition. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135753620,
+                "language": "Python",
+                "last_commit": "2022-02-17T22:37:33Z",
+                "owner": "keras-team",
+                "repo": "keras-applications",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ResNet",
+              "description": "Deep Residual Learning for Image Recognition. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135753620,
+                "language": "Python",
+                "last_commit": "2022-02-17T22:37:33Z",
+                "owner": "keras-team",
+                "repo": "keras-applications",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ResNet50",
+              "description": "Deep Residual Learning for Image Recognition. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135753620,
+                "language": "Python",
+                "last_commit": "2022-02-17T22:37:33Z",
+                "owner": "keras-team",
+                "repo": "keras-applications",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Nasnet",
+              "description": "NASNet refers to Neural Architecture Search Network, a family of models that were designed automatically by learning the model architectures directly on the dataset of interest. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135753620,
+                "language": "Python",
+                "last_commit": "2022-02-17T22:37:33Z",
+                "owner": "keras-team",
+                "repo": "keras-applications",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MobileNet",
+              "description": "MobileNet v1 models for Keras. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135753620,
+                "language": "Python",
+                "last_commit": "2022-02-17T22:37:33Z",
+                "owner": "keras-team",
+                "repo": "keras-applications",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MobileNet V2",
+              "description": "MobileNet v2 models for Keras. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135753620,
+                "language": "Python",
+                "last_commit": "2022-02-17T22:37:33Z",
+                "owner": "keras-team",
+                "repo": "keras-applications",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MobileNet V3",
+              "description": "MobileNet v3 models for Keras. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135753620,
+                "language": "Python",
+                "last_commit": "2022-02-17T22:37:33Z",
+                "owner": "keras-team",
+                "repo": "keras-applications",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "efficientnet",
+              "description": "Rethinking Model Scaling for Convolutional Neural Networks. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135753620,
+                "language": "Python",
+                "last_commit": "2022-02-17T22:37:33Z",
+                "owner": "keras-team",
+                "repo": "keras-applications",
+                "stars": 1990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image analogies",
+              "description": "Generate image analogies using neural matching and blending. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52701428,
+                "language": "Python",
+                "last_commit": "2022-11-22T01:02:52Z",
+                "owner": "awentzonline",
+                "repo": "image-analogies",
+                "stars": 3502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Popular Image Segmentation Models",
+              "description": "Implementation of Segnet, FCN, UNet and other models in Keras. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85625701,
+                "language": "Python",
+                "last_commit": "2024-05-12T08:11:21Z",
+                "owner": "divamgupta",
+                "repo": "image-segmentation-keras",
+                "stars": 3003
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ultrasound nerve segmentation",
+              "description": "This tutorial shows how to use Keras library to build deep neural network for ultrasound image nerve segmentation. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60168915,
+                "language": "Python",
+                "last_commit": "2018-10-11T17:58:13Z",
+                "owner": "jocicmarko",
+                "repo": "ultrasound-nerve-segmentation",
+                "stars": 944
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepMask object segmentation",
+              "description": "This is a Keras-based Python implementation of DeepMask- a complex deep neural network for learning object segmentation masks. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51648022,
+                "language": "Python",
+                "last_commit": "2016-11-16T14:21:32Z",
+                "owner": "abbypa",
+                "repo": "NNProject_DeepMask",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Monolingual and Multilingual Image Captioning",
+              "description": "This is the source code that accompanies Multilingual Image Description with Neural Sequence Models. BSD-3-Clause License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38300151,
+                "language": "Python",
+                "last_commit": "2018-02-09T11:42:37Z",
+                "owner": "elliottd",
+                "repo": "GroundedTranslation",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pix2pix",
+              "description": "Keras implementation of Image-to-Image Translation with Conditional Adversarial Networks by Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67865666,
+                "language": "Python",
+                "last_commit": "2020-10-23T10:03:46Z",
+                "owner": "tdeboissiere",
+                "repo": "DeepLearningImplementations",
+                "stars": 1812
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Colorful Image colorization",
+              "description": "B&W to color. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67865666,
+                "language": "Python",
+                "last_commit": "2020-10-23T10:03:46Z",
+                "owner": "tdeboissiere",
+                "repo": "DeepLearningImplementations",
+                "stars": 1812
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CycleGAN",
+              "description": "Implementation of Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96913967,
+                "language": "Python",
+                "last_commit": "2022-12-12T05:55:51Z",
+                "owner": "eriklindernoren",
+                "repo": "Keras-GAN",
+                "stars": 9204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DualGAN",
+              "description": "Implementation of DualGAN: Unsupervised Dual Learning for Image-to-Image Translation. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96913967,
+                "language": "Python",
+                "last_commit": "2022-12-12T05:55:51Z",
+                "owner": "eriklindernoren",
+                "repo": "Keras-GAN",
+                "stars": 9204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Super-Resolution GAN",
+              "description": "Implementation of Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96913967,
+                "language": "Python",
+                "last_commit": "2022-12-12T05:55:51Z",
+                "owner": "eriklindernoren",
+                "repo": "Keras-GAN",
+                "stars": 9204
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Keras"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "detectron2",
+              "description": "Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms Apache License 2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206660580,
+                "language": "Python",
+                "last_commit": "2026-08-19T05:38:53Z",
+                "owner": "facebookresearch",
+                "repo": "detectron2",
+                "stars": 34685
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastPhotoStyle",
+              "description": "A Closed-form Solution to Photorealistic Image Stylization. Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public Licens",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121539858,
+                "language": "Python",
+                "last_commit": "2023-06-07T07:40:31Z",
+                "owner": "NVIDIA",
+                "repo": "FastPhotoStyle",
+                "stars": 11178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch-CycleGAN-and-pix2pix",
+              "description": "A Closed-form Solution to Photorealistic Image Stylization. BSD License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88612945,
+                "language": "Python",
+                "last_commit": "2025-08-06T17:58:38Z",
+                "owner": "junyanz",
+                "repo": "pytorch-CycleGAN-and-pix2pix",
+                "stars": 25226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "maskrcnn-benchmark",
+              "description": "Fast, modular reference implementation of Instance Segmentation and Object Detection algorithms in PyTorch. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 154542095,
+                "language": "Python",
+                "last_commit": "2023-02-16T04:01:32Z",
+                "owner": "facebookresearch",
+                "repo": "maskrcnn-benchmark",
+                "stars": 9360
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "deep-image-prior",
+              "description": "Image restoration with neural networks but without learning. Apache License 2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112535474,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-04-27T03:47:44Z",
+                "owner": "DmitryUlyanov",
+                "repo": "deep-image-prior",
+                "stars": 8088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StarGAN",
+              "description": "StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112133243,
+                "language": "Python",
+                "last_commit": "2021-01-23T15:09:58Z",
+                "owner": "yunjey",
+                "repo": "stargan",
+                "stars": 5294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "faster-rcnn.pytorch",
+              "description": "This project is a faster faster R-CNN implementation, aimed to accelerating the training of faster R-CNN object detection models. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99269272,
+                "language": "Python",
+                "last_commit": "2022-05-20T09:01:28Z",
+                "owner": "jwyang",
+                "repo": "faster-rcnn.pytorch",
+                "stars": 7856
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pix2pixHD",
+              "description": "Synthesizing and manipulating 2048x1024 images with conditional GANs. BSD License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112777740,
+                "language": "Python",
+                "last_commit": "2024-11-04T18:13:20Z",
+                "owner": "NVIDIA",
+                "repo": "pix2pixHD",
+                "stars": 6923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Augmentor",
+              "description": "Image augmentation library in Python for machine learning. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52899913,
+                "language": "Python",
+                "last_commit": "2024-03-21T14:27:34Z",
+                "owner": "mdbloice",
+                "repo": "Augmentor",
+                "stars": 5133
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "albumentations",
+              "description": "Fast image augmentation library. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 136265021,
+                "language": "Python",
+                "last_commit": "2025-06-25T23:21:43Z",
+                "owner": "albumentations-team",
+                "repo": "albumentations",
+                "stars": 15315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "semantic-segmentation-pytorch",
+              "description": "Pytorch implementation for Semantic Segmentation/Scene Parsing on MIT ADE20K dataset. BSD 3-Clause License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106061907,
+                "language": "Python",
+                "last_commit": "2024-01-15T14:26:43Z",
+                "owner": "CSAILVision",
+                "repo": "semantic-segmentation-pytorch",
+                "stars": 5078
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "An End-to-End Trainable Neural Network for Image-based Sequence Recognition",
+              "description": "This software implements the Convolutional Recurrent Neural Network (CRNN), a combination of CNN, RNN and CTC loss for image-based sequence recognition tasks, such as scene text recognition and OCR. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48272416,
+                "language": "Lua",
+                "last_commit": "2019-03-04T05:12:37Z",
+                "owner": "bgshih",
+                "repo": "crnn",
+                "stars": 2105
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UNIT",
+              "description": "PyTorch Implementation of our Coupled VAE-GAN algorithm for Unsupervised Image-to-Image Translation. Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84034880,
+                "language": "Python",
+                "last_commit": "2021-09-02T20:38:43Z",
+                "owner": "mingyuliutw",
+                "repo": "UNIT",
+                "stars": 2025
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neural Sequence labeling model",
+              "description": "Sequence labeling models are quite popular in many NLP tasks, such as Named Entity Recognition (NER), part-of-speech (POS) tagging and word segmentation. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113293394,
+                "language": "Python",
+                "last_commit": "2022-06-30T09:54:21Z",
+                "owner": "jiesutd",
+                "repo": "NCRFpp",
+                "stars": 1899
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "faster rcnn",
+              "description": "This is a PyTorch implementation of Faster RCNN. This project is mainly based on py-faster-rcnn and TFFRCNN. For details about R-CNN please refer to the paper Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks by Shaoqing Ren, Kaiming He, Ross Girshick, Jian Sun. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80437367,
+                "language": "Python",
+                "last_commit": "2021-09-25T16:46:09Z",
+                "owner": "longcw",
+                "repo": "faster_rcnn_pytorch",
+                "stars": 1776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch-semantic-segmentation",
+              "description": "PyTorch for Semantic Segmentation. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93135701,
+                "language": "Python",
+                "last_commit": "2019-10-25T09:05:41Z",
+                "owner": "zijundeng",
+                "repo": "pytorch-semantic-segmentation",
+                "stars": 1735
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EDSR-PyTorch",
+              "description": "PyTorch version of the paper 'Enhanced Deep Residual Networks for Single Image Super-Resolution'. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104037669,
+                "language": "Python",
+                "last_commit": "2023-01-03T01:47:11Z",
+                "owner": "sanghyun-son",
+                "repo": "EDSR-PyTorch",
+                "stars": 2627
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "image-classification-mobile",
+              "description": "Collection of classification models pretrained on the ImageNet-1K. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140285687,
+                "language": "Python",
+                "last_commit": "2024-09-06T09:38:46Z",
+                "owner": "osmr",
+                "repo": "imgclsmob",
+                "stars": 3016
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FaderNetworks",
+              "description": "Fader Networks: Manipulating Images by Sliding Attributes - NIPS 2017. Creative Commons Attribution-NonCommercial 4.0 International Public License",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 96935397,
+                "language": "Python",
+                "last_commit": "2021-09-01T13:06:07Z",
+                "owner": "facebookresearch",
+                "repo": "FaderNetworks",
+                "stars": 760
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neuraltalk2-pytorch",
+              "description": "Image captioning model in pytorch (finetunable cnn in branch with_finetune). MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81545744,
+                "language": "Python",
+                "last_commit": "2023-10-05T03:59:08Z",
+                "owner": "ruotianluo",
+                "repo": "ImageCaptioning.pytorch",
+                "stars": 1476
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RandWireNN",
+              "description": "Implementation of: \"Exploring Randomly Wired Neural Networks for Image Recognition\". Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 179603629,
+                "language": "Python",
+                "last_commit": "2019-06-26T01:42:40Z",
+                "owner": "seungwonpark",
+                "repo": "RandWireNN",
+                "stars": 684
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stackGAN-v2",
+              "description": "Pytorch implementation for reproducing StackGAN_v2 results in the paper StackGAN++. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107624359,
+                "language": "Python",
+                "last_commit": "2020-01-13T21:23:56Z",
+                "owner": "hanzhanggit",
+                "repo": "StackGAN-v2",
+                "stars": 846
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Detectron models for Object Detection",
+              "description": "This code allows to use some of the Detectron models for object detection from Facebook AI Research with PyTorch. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 124268491,
+                "language": "Jupyter Notebook",
+                "last_commit": "2018-10-30T12:41:48Z",
+                "owner": "ignacio-rocco",
+                "repo": "detectorch",
+                "stars": 559
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DEXTR-PyTorch",
+              "description": "This paper explores the use of extreme points in an object (left-most, right-most, top, bottom pixels) as input to obtain precise object segmentation for images and videos. GNU GENERAL PUBLIC LICENSE",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 125049228,
+                "language": "Python",
+                "last_commit": "2020-09-04T14:24:19Z",
+                "owner": "scaelles",
+                "repo": "DEXTR-PyTorch",
+                "stars": 846
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pointnet.pytorch",
+              "description": "Pytorch implementation for \"PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88309501,
+                "language": "Python",
+                "last_commit": "2023-03-23T19:29:57Z",
+                "owner": "fxia22",
+                "repo": "pointnet.pytorch",
+                "stars": 2354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "self-critical.pytorch",
+              "description": "This repository includes the unofficial implementation Self-critical Sequence Training for Image Captioning and Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90339318,
+                "language": "Python",
+                "last_commit": "2023-10-05T04:01:53Z",
+                "owner": "ruotianluo",
+                "repo": "self-critical.pytorch",
+                "stars": 999
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vnet.pytorch",
+              "description": "A Pytorch implementation for V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation. BSD 3-Clause License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84277315,
+                "language": "Python",
+                "last_commit": "2018-07-06T16:21:09Z",
+                "owner": "mattmacy",
+                "repo": "vnet.pytorch",
+                "stars": 756
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "piwise",
+              "description": "Pixel-wise segmentation on VOC2012 dataset using pytorch. BSD 3-Clause License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85674942,
+                "language": "Python",
+                "last_commit": "2018-12-26T14:04:41Z",
+                "owner": "bodokaiser",
+                "repo": "piwise",
+                "stars": 387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pspnet-pytorch",
+              "description": "PyTorch implementation of PSPNet segmentation network. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103683379,
+                "language": "Python",
+                "last_commit": "2017-10-06T20:27:12Z",
+                "owner": "Lextal",
+                "repo": "pspnet-pytorch",
+                "stars": 590
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch-SRResNet",
+              "description": "Pytorch implementation for Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88688776,
+                "language": "Python",
+                "last_commit": "2018-03-26T14:26:18Z",
+                "owner": "twtygqyy",
+                "repo": "pytorch-SRResNet",
+                "stars": 510
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PNASNet.pytorch",
+              "description": "PyTorch implementation of PNASNet-5 on ImageNet. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140200211,
+                "language": "Python",
+                "last_commit": "2022-08-04T20:12:17Z",
+                "owner": "chenxi116",
+                "repo": "PNASNet.pytorch",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "img_classification_pk_pytorch",
+              "description": "Quickly comparing your image classification models with the state-of-the-art models. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86894002,
+                "language": "Python",
+                "last_commit": "2019-04-12T02:32:20Z",
+                "owner": "felixgwu",
+                "repo": "img_classification_pk_pytorch",
+                "stars": 372
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Deep Neural Networks are Easily Fooled",
+              "description": "High Confidence Predictions for Unrecognizable Images. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114314060,
+                "language": "Python",
+                "last_commit": "2018-12-03T06:59:55Z",
+                "owner": "utkuozbulak",
+                "repo": "pytorch-cnn-adversarial-attacks",
+                "stars": 365
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pix2pix-pytorch",
+              "description": "PyTorch implementation of \"Image-to-Image Translation Using Conditional Adversarial Networks\". Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84819927,
+                "language": "Python",
+                "last_commit": "2018-12-22T12:11:56Z",
+                "owner": "mrzhu-cool",
+                "repo": "pix2pix-pytorch",
+                "stars": 445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NVIDIA/semantic-segmentation",
+              "description": "A PyTorch Implementation of Improving Semantic Segmentation via Video Propagation and Label Relaxation, In CVPR2019. CC BY-NC-SA 4.0 license",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 191994859,
+                "language": "Python",
+                "last_commit": "2021-07-26T23:48:15Z",
+                "owner": "NVIDIA",
+                "repo": "semantic-segmentation",
+                "stars": 1828
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Neural-IMage-Assessment",
+              "description": "A PyTorch Implementation of Neural IMage Assessment. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121835729,
+                "language": "Python",
+                "last_commit": "2021-11-10T11:36:17Z",
+                "owner": "yunxiaoshi",
+                "repo": "Neural-IMage-Assessment",
+                "stars": 585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "torchxrayvision",
+              "description": "Pretrained models for chest X-ray (CXR) pathology predictions. Medical, Healthcare, Radiology Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 244798181,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-23T17:53:52Z",
+                "owner": "mlmed",
+                "repo": "torchxrayvision",
+                "stars": 1184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pytorch-image-models",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168799526,
+                "language": "Python",
+                "last_commit": "2026-08-21T23:34:44Z",
+                "owner": "huggingface",
+                "repo": "pytorch-image-models",
+                "stars": 37089
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache License 2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 168799526,
+                "language": "Python",
+                "last_commit": "2026-08-21T23:34:44Z",
+                "owner": "huggingface",
+                "repo": "pytorch-image-models",
+                "stars": 37089
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PyTorch"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenPose",
+              "description": "OpenPose represents the first real-time multi-person system to jointly detect human body, hand, and facial keypoints (in total 130 keypoints) on single images. Custom",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89247811,
+                "language": "C++",
+                "last_commit": "2024-08-03T01:59:11Z",
+                "owner": "CMU-Perceptual-Computing-Lab",
+                "repo": "openpose",
+                "stars": 34390
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fully Convolutional Networks for Semantic Segmentation",
+              "description": "Fully Convolutional Models for Semantic Segmentation. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37166226,
+                "language": "Python",
+                "last_commit": "2021-09-27T10:14:15Z",
+                "owner": "shelhamer",
+                "repo": "fcn.berkeleyvision.org",
+                "stars": 3350
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Colorful Image Colorization",
+              "description": "Colorful Image Colorization. BSD-2-Clause License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54758833,
+                "language": "Python",
+                "last_commit": "2023-11-27T04:46:28Z",
+                "owner": "richzhang",
+                "repo": "colorization",
+                "stars": 3461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R-FCN",
+              "description": "R-FCN: Object Detection via Region-based Fully Convolutional Networks. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68006691,
+                "language": "Python",
+                "last_commit": "2020-12-31T01:44:16Z",
+                "owner": "YuwenXiong",
+                "repo": "py-R-FCN",
+                "stars": 1043
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cnn-vis",
+              "description": "Inspired by Google's recent Inceptionism blog post, cnn-vis is an open-source tool that lets you use convolutional neural networks to generate images. The MIT License (MIT)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38272201,
+                "language": "Python",
+                "last_commit": "2015-07-01T22:51:47Z",
+                "owner": "jcjohnson",
+                "repo": "cnn-vis",
+                "stars": 498
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeconvNet",
+              "description": "Learning Deconvolution Network for Semantic Segmentation. Custom",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37599527,
+                "language": "Matlab",
+                "last_commit": "2015-06-23T08:26:49Z",
+                "owner": "HyeonwooNoh",
+                "repo": "DeconvNet",
+                "stars": 327
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Caffe"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Faster RCNN",
+              "description": "Region Proposal Network solves object detection as a regression problem. Apache License, Version 2.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58936515,
+                "language": "Python",
+                "last_commit": "2018-08-25T17:46:48Z",
+                "owner": "ijkguo",
+                "repo": "mx-rcnn",
+                "stars": 666
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSD",
+              "description": "SSD is an unified framework for object detection with a single network. MIT License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69511580,
+                "language": "Python",
+                "last_commit": "2024-05-16T18:17:10Z",
+                "owner": "zhreshold",
+                "repo": "mxnet-ssd",
+                "stars": 757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Faster RCNN+Focal Loss",
+              "description": "The code is unofficial version for focal loss for Dense Object Detection. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100166730,
+                "language": "Python",
+                "last_commit": "2017-12-20T04:30:15Z",
+                "owner": "unsky",
+                "repo": "focal-loss",
+                "stars": 486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CNN-LSTM-CTC",
+              "description": "I realize three different models for text recognition, and all of them consist of CTC loss layer to realize no segmentation for text images. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79783738,
+                "language": "Python",
+                "last_commit": "2017-02-16T01:26:08Z",
+                "owner": "oyxhust",
+                "repo": "CNN-LSTM-CTC-text-recognition",
+                "stars": 268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Faster_RCNN_for_DOTA",
+              "description": "This is the official repo of paper DOTA: A Large-scale Dataset for Object Detection in Aerial Images. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 131543691,
+                "language": "Python",
+                "last_commit": "2018-07-07T07:38:24Z",
+                "owner": "jessemelpolio",
+                "repo": "Faster_RCNN_for_DOTA",
+                "stars": 337
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RetinaNet",
+              "description": "Focal loss for Dense Object Detection. Not Found",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102583270,
+                "language": "Python",
+                "last_commit": "2018-02-01T09:45:32Z",
+                "owner": "unsky",
+                "repo": "RetinaNet",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MobileNetV2",
+              "description": "This is a MXNet implementation of MobileNetV2 architecture as described in the paper Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 127240768,
+                "language": "Python",
+                "last_commit": "2019-03-15T01:35:28Z",
+                "owner": "liangfu",
+                "repo": "mxnet-mobilenet-v2",
+                "stars": 128
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neuron-selectivity-transfer",
+              "description": "This code is a re-implementation of the imagenet classification experiments in the paper Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128517939,
+                "language": "Python",
+                "last_commit": "2018-10-22T05:16:52Z",
+                "owner": "TuSimple",
+                "repo": "neuron-selectivity-transfer",
+                "stars": 137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MobileNetV2",
+              "description": "This is a Gluon implementation of MobileNetV2 architecture as described in the paper Inverted Residuals and Linear Bottlenecks: Mobile Networks for Classification, Detection and Segmentation. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118064062,
+                "language": "Python",
+                "last_commit": "2018-05-04T03:25:53Z",
+                "owner": "chinakook",
+                "repo": "MobileNetV2.mxnet",
+                "stars": 85
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sparse-structure-selection",
+              "description": "This code is a re-implementation of the imagenet classification experiments in the paper Data-Driven Sparse Structure Selection for Deep Neural Networks. Apache License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130162135,
+                "language": "Python",
+                "last_commit": "2018-07-17T03:47:04Z",
+                "owner": "TuSimple",
+                "repo": "sparse-structure-selection",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastPhotoStyle",
+              "description": "A Closed-form Solution to Photorealistic Image Stylization. Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121539858,
+                "language": "Python",
+                "last_commit": "2023-06-07T07:40:31Z",
+                "owner": "NVIDIA",
+                "repo": "FastPhotoStyle",
+                "stars": 11178
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "MXNet"
+        }
+      ],
+      "title": "Model Deployment library"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:29:57.592Z",
+    "last_updated": "2026-08-24T14:18:35.098Z",
     "original_repository": "balavenkatesh3322/CV-pretrained-model",
     "original_repository_id": 279501606,
     "original_repository_sha": "d0bb8698d10b2d78ee531e85010ab423386105c1",
