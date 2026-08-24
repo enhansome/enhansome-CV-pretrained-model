@@ -570,7 +570,7 @@
                 "last_commit": "2018-10-11T17:58:13Z",
                 "owner": "jocicmarko",
                 "repo": "ultrasound-nerve-segmentation",
-                "stars": 944
+                "stars": 943
               }
             },
             {
@@ -727,7 +727,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25226
+                "stars": 25227
               }
             },
             {
@@ -832,7 +832,7 @@
                 "last_commit": "2025-06-25T23:21:43Z",
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15315
+                "stars": 15316
               }
             },
             {
@@ -1234,7 +1234,7 @@
                 "archived": false,
                 "id": 244798181,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-23T17:53:52Z",
+                "last_commit": "2026-08-24T20:09:34Z",
                 "owner": "mlmed",
                 "repo": "torchxrayvision",
                 "stars": 1184
@@ -1249,7 +1249,7 @@
                 "archived": false,
                 "id": 168799526,
                 "language": "Python",
-                "last_commit": "2026-08-21T23:34:44Z",
+                "last_commit": "2026-08-24T19:20:09Z",
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
                 "stars": 37089
@@ -1264,7 +1264,7 @@
                 "archived": false,
                 "id": 168799526,
                 "language": "Python",
-                "last_commit": "2026-08-21T23:34:44Z",
+                "last_commit": "2026-08-24T19:20:09Z",
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
                 "stars": 37089
@@ -1289,7 +1289,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34390
+                "stars": 34393
               }
             },
             {
@@ -1549,7 +1549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:18:35.098Z",
+    "last_updated": "2026-08-24T21:38:03.051Z",
     "original_repository": "balavenkatesh3322/CV-pretrained-model",
     "original_repository_id": 279501606,
     "original_repository_sha": "d0bb8698d10b2d78ee531e85010ab423386105c1",
