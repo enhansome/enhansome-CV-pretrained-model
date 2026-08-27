@@ -68,7 +68,7 @@
                 "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77652
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2024-06-07T02:36:21Z",
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25566
+                "stars": 25567
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2023-10-23T23:26:26Z",
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6141
+                "stars": 6139
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77652
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77652
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-02-22T02:05:20Z",
                 "owner": "tensorlayer",
                 "repo": "SRGAN",
-                "stars": 3467
+                "stars": 3466
               }
             },
             {
@@ -278,7 +278,7 @@
                 "last_commit": "2019-08-17T21:55:15Z",
                 "owner": "zsdonghao",
                 "repo": "u-net-brain-tumor",
-                "stars": 534
+                "stars": 535
               }
             },
             {
@@ -308,7 +308,7 @@
                 "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77652
               }
             },
             {
@@ -323,7 +323,7 @@
                 "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77652
               }
             },
             {
@@ -338,7 +338,7 @@
                 "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77652
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77652
               }
             },
             {
@@ -368,7 +368,7 @@
                 "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77652
               }
             }
           ],
@@ -390,7 +390,7 @@
                 "last_commit": "2024-06-07T02:36:21Z",
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25566
+                "stars": 25567
               }
             },
             {
@@ -697,7 +697,7 @@
                 "last_commit": "2026-08-19T05:38:53Z",
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34686
+                "stars": 34688
               }
             },
             {
@@ -712,7 +712,7 @@
                 "last_commit": "2023-06-07T07:40:31Z",
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11178
+                "stars": 11177
               }
             },
             {
@@ -727,7 +727,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25229
+                "stars": 25232
               }
             },
             {
@@ -772,7 +772,7 @@
                 "last_commit": "2021-01-23T15:09:58Z",
                 "owner": "yunjey",
                 "repo": "stargan",
-                "stars": 5295
+                "stars": 5296
               }
             },
             {
@@ -787,7 +787,7 @@
                 "last_commit": "2022-05-20T09:01:28Z",
                 "owner": "jwyang",
                 "repo": "faster-rcnn.pytorch",
-                "stars": 7856
+                "stars": 7858
               }
             },
             {
@@ -937,7 +937,7 @@
                 "last_commit": "2023-01-03T01:47:11Z",
                 "owner": "sanghyun-son",
                 "repo": "EDSR-PyTorch",
-                "stars": 2628
+                "stars": 2627
               }
             },
             {
@@ -1249,10 +1249,10 @@
                 "archived": false,
                 "id": 168799526,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:08:09Z",
+                "last_commit": "2026-08-26T23:35:45Z",
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37090
+                "stars": 37099
               }
             },
             {
@@ -1264,10 +1264,10 @@
                 "archived": false,
                 "id": 168799526,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:08:09Z",
+                "last_commit": "2026-08-26T23:35:45Z",
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37090
+                "stars": 37099
               }
             }
           ],
@@ -1289,7 +1289,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34403
+                "stars": 34413
               }
             },
             {
@@ -1386,7 +1386,7 @@
                 "last_commit": "2018-08-25T17:46:48Z",
                 "owner": "ijkguo",
                 "repo": "mx-rcnn",
-                "stars": 666
+                "stars": 667
               }
             },
             {
@@ -1536,7 +1536,7 @@
                 "last_commit": "2023-06-07T07:40:31Z",
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11178
+                "stars": 11177
               }
             }
           ],
@@ -1549,7 +1549,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:37:09.472Z",
+    "last_updated": "2026-08-27T00:38:38.279Z",
     "original_repository": "balavenkatesh3322/CV-pretrained-model",
     "original_repository_id": 279501606,
     "original_repository_sha": "d0bb8698d10b2d78ee531e85010ab423386105c1",
