@@ -65,10 +65,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -83,7 +83,7 @@
                 "last_commit": "2024-06-07T02:36:21Z",
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25567
+                "stars": 25569
               }
             },
             {
@@ -140,10 +140,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -155,10 +155,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-02-22T02:05:20Z",
                 "owner": "tensorlayer",
                 "repo": "SRGAN",
-                "stars": 3466
+                "stars": 3467
               }
             },
             {
@@ -305,10 +305,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -320,10 +320,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -335,10 +335,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -350,10 +350,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             },
             {
@@ -365,10 +365,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:25:59Z",
+                "last_commit": "2026-08-27T04:28:47Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652
+                "stars": 77653
               }
             }
           ],
@@ -390,7 +390,7 @@
                 "last_commit": "2024-06-07T02:36:21Z",
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25567
+                "stars": 25569
               }
             },
             {
@@ -697,7 +697,7 @@
                 "last_commit": "2026-08-19T05:38:53Z",
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34688
+                "stars": 34690
               }
             },
             {
@@ -712,7 +712,7 @@
                 "last_commit": "2023-06-07T07:40:31Z",
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11177
+                "stars": 11176
               }
             },
             {
@@ -727,7 +727,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25232
+                "stars": 25234
               }
             },
             {
@@ -742,7 +742,7 @@
                 "last_commit": "2023-02-16T04:01:32Z",
                 "owner": "facebookresearch",
                 "repo": "maskrcnn-benchmark",
-                "stars": 9360
+                "stars": 9361
               }
             },
             {
@@ -832,7 +832,7 @@
                 "last_commit": "2025-06-25T23:21:43Z",
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15315
+                "stars": 15316
               }
             },
             {
@@ -1057,7 +1057,7 @@
                 "last_commit": "2023-03-23T19:29:57Z",
                 "owner": "fxia22",
                 "repo": "pointnet.pytorch",
-                "stars": 2354
+                "stars": 2355
               }
             },
             {
@@ -1132,7 +1132,7 @@
                 "last_commit": "2018-03-26T14:26:18Z",
                 "owner": "twtygqyy",
                 "repo": "pytorch-SRResNet",
-                "stars": 510
+                "stars": 511
               }
             },
             {
@@ -1237,7 +1237,7 @@
                 "last_commit": "2026-08-24T20:09:34Z",
                 "owner": "mlmed",
                 "repo": "torchxrayvision",
-                "stars": 1183
+                "stars": 1184
               }
             },
             {
@@ -1252,7 +1252,7 @@
                 "last_commit": "2026-08-26T23:35:45Z",
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37099
+                "stars": 37102
               }
             },
             {
@@ -1267,7 +1267,7 @@
                 "last_commit": "2026-08-26T23:35:45Z",
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37099
+                "stars": 37102
               }
             }
           ],
@@ -1289,7 +1289,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34413
+                "stars": 34417
               }
             },
             {
@@ -1536,7 +1536,7 @@
                 "last_commit": "2023-06-07T07:40:31Z",
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11177
+                "stars": 11176
               }
             }
           ],
@@ -1549,9 +1549,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:38:38.279Z",
-    "original_repository": "balavenkatesh3322/CV-pretrained-model",
-    "original_repository_id": 279501606,
+    "last_updated": "2026-08-27T11:32:59.795Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 279501606,
+      "language": null,
+      "last_commit": "2021-03-03T16:21:20Z",
+      "owner": "balavenkatesh3322",
+      "repo": "CV-pretrained-model",
+      "stars": 1366
+    },
     "original_repository_sha": "d0bb8698d10b2d78ee531e85010ab423386105c1",
     "enhanced_repository": "enhansome/enhansome-CV-pretrained-model",
     "enhanced_repository_description": null,
