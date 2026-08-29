@@ -68,10 +68,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657
+                "stars": 77659
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657
+                "stars": 77659
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -164,10 +164,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657
+                "stars": 77659
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -324,10 +324,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657
+                "stars": 77659
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -340,10 +340,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657
+                "stars": 77659
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -356,10 +356,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657
+                "stars": 77659
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -372,10 +372,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657
+                "stars": 77659
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -388,10 +388,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-28T01:33:46Z",
+                "last_commit": "2026-08-28T18:30:48Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657
+                "stars": 77659
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             }
@@ -773,7 +773,7 @@
                 "last_commit": "2025-08-06T17:58:38Z",
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25235
+                "stars": 25236
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -805,7 +805,7 @@
                 "last_commit": "2023-04-27T03:47:44Z",
                 "owner": "DmitryUlyanov",
                 "repo": "deep-image-prior",
-                "stars": 8088
+                "stars": 8089
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -1330,10 +1330,10 @@
                 "archived": false,
                 "id": 168799526,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:30:18Z",
+                "last_commit": "2026-08-28T15:05:27Z",
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37104
+                "stars": 37105
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -1346,10 +1346,10 @@
                 "archived": false,
                 "id": 168799526,
                 "language": "Python",
-                "last_commit": "2026-08-27T19:30:18Z",
+                "last_commit": "2026-08-28T15:05:27Z",
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37104
+                "stars": 37105
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             }
@@ -1372,7 +1372,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34418
+                "stars": 34417
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -1404,7 +1404,7 @@
                 "last_commit": "2023-11-27T04:46:28Z",
                 "owner": "richzhang",
                 "repo": "colorization",
-                "stars": 3461
+                "stars": 3462
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
             },
@@ -1649,7 +1649,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T05:17:42.961Z",
+    "last_updated": "2026-08-29T03:08:06.514Z",
     "original_repository_info": {
       "archived": false,
       "id": 279501606,
