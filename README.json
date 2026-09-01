@@ -170,7 +170,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25572,
+                "stars": 25571,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -479,7 +479,7 @@
                 "open_issues": 35,
                 "owner": "zsdonghao",
                 "repo": "text-to-image",
-                "stars": 600,
+                "stars": 599,
                 "topics": [
                   "gan",
                   "tensorflow",
@@ -669,7 +669,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25572,
+                "stars": 25571,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1124,7 +1124,7 @@
                 "open_issues": 588,
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34691,
+                "stars": 34690,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1166,7 +1166,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25235,
+                "stars": 25232,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1292,7 +1292,7 @@
                 "open_issues": 247,
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6924,
+                "stars": 6923,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1349,7 +1349,7 @@
                 "open_issues": 0,
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15315,
+                "stars": 15314,
                 "topics": [
                   "augmentation",
                   "deep-learning",
@@ -2043,7 +2043,7 @@
                 "open_issues": 35,
                 "owner": "mlmed",
                 "repo": "torchxrayvision",
-                "stars": 1187,
+                "stars": 1188,
                 "topics": [
                   "chest-radiographs",
                   "chest-xray",
@@ -2080,11 +2080,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T15:05:27Z",
-                "open_issues": 55,
+                "last_commit": "2026-09-01T15:59:46Z",
+                "open_issues": 54,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37110,
+                "stars": 37117,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2122,11 +2122,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T15:05:27Z",
-                "open_issues": 55,
+                "last_commit": "2026-09-01T15:59:46Z",
+                "open_issues": 54,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37110,
+                "stars": 37117,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2175,7 +2175,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34418,
+                "stars": 34419,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:32:38.173Z",
+    "last_updated": "2026-09-01T23:14:30.999Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
@@ -2584,7 +2584,7 @@
       "open_issues": 2,
       "owner": "balavenkatesh3322",
       "repo": "CV-pretrained-model",
-      "stars": 1366,
+      "stars": 1365,
       "topics": [
         "awesome-list",
         "computer-vision",
