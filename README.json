@@ -927,7 +927,7 @@
                 "open_issues": 53,
                 "owner": "jocicmarko",
                 "repo": "ultrasound-nerve-segmentation",
-                "stars": 943,
+                "stars": 944,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1124,7 +1124,7 @@
                 "open_issues": 591,
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34707,
+                "stars": 34709,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1166,7 +1166,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25245,
+                "stars": 25244,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1220,7 +1220,7 @@
                 "open_issues": 70,
                 "owner": "DmitryUlyanov",
                 "repo": "deep-image-prior",
-                "stars": 8090,
+                "stars": 8091,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1349,7 +1349,7 @@
                 "open_issues": 0,
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15308,
+                "stars": 15309,
                 "topics": [
                   "augmentation",
                   "deep-learning",
@@ -1750,7 +1750,7 @@
                 "open_issues": 59,
                 "owner": "fxia22",
                 "repo": "pointnet.pytorch",
-                "stars": 2355,
+                "stars": 2356,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2043,7 +2043,7 @@
                 "open_issues": 35,
                 "owner": "mlmed",
                 "repo": "torchxrayvision",
-                "stars": 1192,
+                "stars": 1193,
                 "topics": [
                   "chest-radiographs",
                   "chest-xray",
@@ -2080,11 +2080,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T20:00:09Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-15T18:35:27Z",
+                "open_issues": 60,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37142,
+                "stars": 37145,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2122,11 +2122,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T20:00:09Z",
-                "open_issues": 59,
+                "last_commit": "2026-09-15T18:35:27Z",
+                "open_issues": 60,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37142,
+                "stars": 37145,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2175,7 +2175,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34444,
+                "stars": 34447,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2217,7 +2217,7 @@
                 "open_issues": 0,
                 "owner": "shelhamer",
                 "repo": "fcn.berkeleyvision.org",
-                "stars": 3349,
+                "stars": 3350,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:49:28.999Z",
+    "last_updated": "2026-09-15T23:30:09.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
