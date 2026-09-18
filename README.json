@@ -146,10 +146,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1274,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77655,
+                "stars": 77654,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -170,7 +170,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25573,
+                "stars": 25574,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -274,10 +274,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1274,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77655,
+                "stars": 77654,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -295,10 +295,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1274,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77655,
+                "stars": 77654,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -554,10 +554,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1274,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77655,
+                "stars": 77654,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -575,10 +575,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1274,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77655,
+                "stars": 77654,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -596,10 +596,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1274,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77655,
+                "stars": 77654,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -617,10 +617,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1274,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77655,
+                "stars": 77654,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -638,10 +638,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1274,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77655,
+                "stars": 77654,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -669,7 +669,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25573,
+                "stars": 25574,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1145,7 +1145,7 @@
                 "open_issues": 57,
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11173,
+                "stars": 11172,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1292,7 +1292,7 @@
                 "open_issues": 247,
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6926,
+                "stars": 6925,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1794,7 +1794,7 @@
                 "open_issues": 26,
                 "owner": "mattmacy",
                 "repo": "vnet.pytorch",
-                "stars": 758,
+                "stars": 759,
                 "topics": [
                   "convolutional-neural-networks",
                   "fully-convolutional-networks",
@@ -1996,7 +1996,7 @@
                 "open_issues": 89,
                 "owner": "NVIDIA",
                 "repo": "semantic-segmentation",
-                "stars": 1831,
+                "stars": 1830,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2043,7 +2043,7 @@
                 "open_issues": 35,
                 "owner": "mlmed",
                 "repo": "torchxrayvision",
-                "stars": 1193,
+                "stars": 1194,
                 "topics": [
                   "chest-radiographs",
                   "chest-xray",
@@ -2080,11 +2080,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T17:31:25Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-18T15:31:47Z",
+                "open_issues": 50,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37153,
+                "stars": 37156,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2122,11 +2122,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-17T17:31:25Z",
-                "open_issues": 51,
+                "last_commit": "2026-09-18T15:31:47Z",
+                "open_issues": 50,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37153,
+                "stars": 37156,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2175,7 +2175,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34454,
+                "stars": 34455,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2557,7 +2557,7 @@
                 "open_issues": 57,
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11173,
+                "stars": 11172,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:30:04.216Z",
+    "last_updated": "2026-09-18T23:13:24.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
@@ -2584,7 +2584,7 @@
       "open_issues": 2,
       "owner": "balavenkatesh3322",
       "repo": "CV-pretrained-model",
-      "stars": 1365,
+      "stars": 1366,
       "topics": [
         "awesome-list",
         "computer-vision",
