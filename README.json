@@ -1036,7 +1036,7 @@
                 "open_issues": 147,
                 "owner": "eriklindernoren",
                 "repo": "Keras-GAN",
-                "stars": 9204,
+                "stars": 9205,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1063,7 +1063,7 @@
                 "open_issues": 147,
                 "owner": "eriklindernoren",
                 "repo": "Keras-GAN",
-                "stars": 9204,
+                "stars": 9205,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1090,7 +1090,7 @@
                 "open_issues": 147,
                 "owner": "eriklindernoren",
                 "repo": "Keras-GAN",
-                "stars": 9204,
+                "stars": 9205,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1124,7 +1124,7 @@
                 "open_issues": 591,
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34732,
+                "stars": 34735,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1166,7 +1166,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25251,
+                "stars": 25250,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1292,7 +1292,7 @@
                 "open_issues": 247,
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6925,
+                "stars": 6926,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1500,7 +1500,7 @@
                 "open_issues": 71,
                 "owner": "longcw",
                 "repo": "faster_rcnn_pytorch",
-                "stars": 1778,
+                "stars": 1779,
                 "topics": [
                   "computer-vision",
                   "detection",
@@ -1635,7 +1635,7 @@
                 "open_issues": 99,
                 "owner": "ruotianluo",
                 "repo": "ImageCaptioning.pytorch",
-                "stars": 1476,
+                "stars": 1477,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2080,11 +2080,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T21:18:57Z",
+                "last_commit": "2026-09-26T23:22:53Z",
                 "open_issues": 39,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37172,
+                "stars": 37171,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2122,11 +2122,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T21:18:57Z",
+                "last_commit": "2026-09-26T23:22:53Z",
                 "open_issues": 39,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37172,
+                "stars": 37171,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T23:55:23.114Z",
+    "last_updated": "2026-09-26T23:30:42.720Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
