@@ -170,7 +170,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25574,
+                "stars": 25575,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -197,7 +197,7 @@
                 "open_issues": 271,
                 "owner": "smallcorgi",
                 "repo": "Faster-RCNN_TF",
-                "stars": 2341,
+                "stars": 2342,
                 "topics": [
                   "detection",
                   "faster-rcnn",
@@ -669,7 +669,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25574,
+                "stars": 25575,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1121,10 +1121,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-29T00:26:07Z",
-                "open_issues": 593,
+                "open_issues": 594,
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34736,
+                "stars": 34737,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1145,7 +1145,7 @@
                 "open_issues": 57,
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11170,
+                "stars": 11171,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1166,7 +1166,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25251,
+                "stars": 25255,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1199,7 +1199,7 @@
                 "open_issues": 530,
                 "owner": "facebookresearch",
                 "repo": "maskrcnn-benchmark",
-                "stars": 9357,
+                "stars": 9358,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1349,7 +1349,7 @@
                 "open_issues": 0,
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15309,
+                "stars": 15311,
                 "topics": [
                   "augmentation",
                   "deep-learning",
@@ -1383,7 +1383,7 @@
                 "open_issues": 82,
                 "owner": "CSAILVision",
                 "repo": "semantic-segmentation-pytorch",
-                "stars": 5079,
+                "stars": 5080,
                 "topics": [
                   "ade20k",
                   "pytorch",
@@ -1500,7 +1500,7 @@
                 "open_issues": 71,
                 "owner": "longcw",
                 "repo": "faster_rcnn_pytorch",
-                "stars": 1779,
+                "stars": 1780,
                 "topics": [
                   "computer-vision",
                   "detection",
@@ -1750,7 +1750,7 @@
                 "open_issues": 59,
                 "owner": "fxia22",
                 "repo": "pointnet.pytorch",
-                "stars": 2359,
+                "stars": 2360,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2039,8 +2039,8 @@
                 "id": 244798181,
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T20:09:34Z",
-                "open_issues": 35,
+                "last_commit": "2026-09-29T03:37:17Z",
+                "open_issues": 34,
                 "owner": "mlmed",
                 "repo": "torchxrayvision",
                 "stars": 1199,
@@ -2080,11 +2080,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T16:06:06Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-29T22:05:43Z",
+                "open_issues": 42,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37174,
+                "stars": 37177,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2122,11 +2122,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T16:06:06Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-29T22:05:43Z",
+                "open_issues": 42,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37174,
+                "stars": 37177,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2175,7 +2175,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34475,
+                "stars": 34476,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2238,7 +2238,7 @@
                 "open_issues": 60,
                 "owner": "richzhang",
                 "repo": "colorization",
-                "stars": 3464,
+                "stars": 3465,
                 "topics": [
                   "automatic-colorization",
                   "caffe",
@@ -2557,7 +2557,7 @@
                 "open_issues": 57,
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11170,
+                "stars": 11171,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T00:56:42.935Z",
+    "last_updated": "2026-09-30T00:18:54.902Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
@@ -2584,7 +2584,7 @@
       "open_issues": 2,
       "owner": "balavenkatesh3322",
       "repo": "CV-pretrained-model",
-      "stars": 1368,
+      "stars": 1369,
       "topics": [
         "awesome-list",
         "computer-vision",
