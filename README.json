@@ -170,7 +170,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25575,
+                "stars": 25576,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -418,7 +418,7 @@
                 "open_issues": 57,
                 "owner": "yunjey",
                 "repo": "show-attend-and-tell",
-                "stars": 907,
+                "stars": 908,
                 "topics": [
                   "attention-mechanism",
                   "image-captioning",
@@ -669,7 +669,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25575,
+                "stars": 25576,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1120,11 +1120,11 @@
                 "id": 206660580,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T00:26:07Z",
+                "last_commit": "2026-09-30T06:02:30Z",
                 "open_issues": 594,
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34737,
+                "stars": 34743,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1166,7 +1166,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25255,
+                "stars": 25256,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1268,7 +1268,7 @@
                 "open_issues": 422,
                 "owner": "jwyang",
                 "repo": "faster-rcnn.pytorch",
-                "stars": 7858,
+                "stars": 7859,
                 "topics": [
                   "faster-rcnn",
                   "pytorch"
@@ -1500,7 +1500,7 @@
                 "open_issues": 71,
                 "owner": "longcw",
                 "repo": "faster_rcnn_pytorch",
-                "stars": 1780,
+                "stars": 1779,
                 "topics": [
                   "computer-vision",
                   "detection",
@@ -1635,7 +1635,7 @@
                 "open_issues": 99,
                 "owner": "ruotianluo",
                 "repo": "ImageCaptioning.pytorch",
-                "stars": 1477,
+                "stars": 1478,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1996,7 +1996,7 @@
                 "open_issues": 89,
                 "owner": "NVIDIA",
                 "repo": "semantic-segmentation",
-                "stars": 1831,
+                "stars": 1830,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2043,7 +2043,7 @@
                 "open_issues": 34,
                 "owner": "mlmed",
                 "repo": "torchxrayvision",
-                "stars": 1199,
+                "stars": 1201,
                 "topics": [
                   "chest-radiographs",
                   "chest-xray",
@@ -2080,11 +2080,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T22:05:43Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-30T15:48:40Z",
+                "open_issues": 46,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37177,
+                "stars": 37182,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2122,11 +2122,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T22:05:43Z",
-                "open_issues": 42,
+                "last_commit": "2026-09-30T15:48:40Z",
+                "open_issues": 46,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37177,
+                "stars": 37182,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2175,7 +2175,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34476,
+                "stars": 34477,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T00:18:54.902Z",
+    "last_updated": "2026-10-01T00:29:41.032Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
