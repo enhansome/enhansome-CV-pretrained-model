@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Audio and Speech Pre-trained Models",
-          "description": null,
+          "description": "balavenkatesh3322/audio-pretrained-model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -47,7 +47,7 @@
         {
           "node_type": "item",
           "title": "NLP Pre-trained Models",
-          "description": ".",
+          "description": "balavenkatesh3322/NLP-pretrained-model",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -93,7 +93,7 @@
         {
           "node_type": "item",
           "title": "Model Serving",
-          "description": null,
+          "description": "balavenkatesh3322/model_deployment",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,7 +146,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -274,7 +274,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -295,7 +295,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -554,7 +554,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -575,7 +575,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -596,7 +596,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -617,7 +617,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -638,7 +638,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -2040,7 +2040,7 @@
                 "language": "Jupyter Notebook",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:21:04Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "mlmed",
                 "repo": "torchxrayvision",
                 "stars": 1202,
@@ -2071,7 +2071,7 @@
             {
               "node_type": "item",
               "title": "pytorch-image-models",
-              "description": null,
+              "description": "huggingface/pytorch-image-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2113,7 +2113,7 @@
             {
               "node_type": "item",
               "title": "Apache License 2.0",
-              "description": null,
+              "description": "huggingface/pytorch-image-models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2175,7 +2175,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34483,
+                "stars": 34484,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:23:41.014Z",
+    "last_updated": "2026-10-03T04:27:23.444Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
