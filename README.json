@@ -149,7 +149,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -170,7 +170,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25576,
+                "stars": 25575,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -243,7 +243,7 @@
                 "open_issues": 641,
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6140,
+                "stars": 6139,
                 "topics": [
                   "convolutional-networks",
                   "convolutional-neural-networks",
@@ -277,7 +277,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -298,7 +298,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -557,7 +557,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -578,7 +578,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -599,7 +599,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -620,7 +620,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -641,7 +641,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77657,
+                "stars": 77656,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -669,7 +669,7 @@
                 "open_issues": 2022,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25576,
+                "stars": 25575,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1036,7 +1036,7 @@
                 "open_issues": 147,
                 "owner": "eriklindernoren",
                 "repo": "Keras-GAN",
-                "stars": 9205,
+                "stars": 9204,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1063,7 +1063,7 @@
                 "open_issues": 147,
                 "owner": "eriklindernoren",
                 "repo": "Keras-GAN",
-                "stars": 9205,
+                "stars": 9204,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1090,7 +1090,7 @@
                 "open_issues": 147,
                 "owner": "eriklindernoren",
                 "repo": "Keras-GAN",
-                "stars": 9205,
+                "stars": 9204,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1124,7 +1124,7 @@
                 "open_issues": 595,
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34759,
+                "stars": 34761,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1349,7 +1349,7 @@
                 "open_issues": 0,
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15309,
+                "stars": 15308,
                 "topics": [
                   "augmentation",
                   "deep-learning",
@@ -2080,7 +2080,7 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:27:29Z",
+                "last_commit": "2026-10-06T21:03:11Z",
                 "open_issues": 40,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
@@ -2122,7 +2122,7 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:27:29Z",
+                "last_commit": "2026-10-06T21:03:11Z",
                 "open_issues": 40,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
@@ -2175,7 +2175,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34482,
+                "stars": 34483,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:05:47.541Z",
+    "last_updated": "2026-10-07T00:36:07.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
