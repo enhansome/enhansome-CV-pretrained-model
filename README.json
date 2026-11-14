@@ -149,7 +149,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77633,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -170,7 +170,7 @@
                 "open_issues": 2020,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25577,
+                "stars": 25578,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -277,7 +277,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77633,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -298,7 +298,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77633,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -557,7 +557,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77633,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -578,7 +578,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77633,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -599,7 +599,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77633,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -620,7 +620,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77633,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -641,7 +641,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77633,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -669,7 +669,7 @@
                 "open_issues": 2020,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25577,
+                "stars": 25578,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -1121,7 +1121,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T09:21:49Z",
-                "open_issues": 600,
+                "open_issues": 601,
                 "owner": "facebookresearch",
                 "repo": "detectron2",
                 "stars": 34985,
@@ -1145,7 +1145,7 @@
                 "open_issues": 57,
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11176,
+                "stars": 11177,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1220,7 +1220,7 @@
                 "open_issues": 70,
                 "owner": "DmitryUlyanov",
                 "repo": "deep-image-prior",
-                "stars": 8094,
+                "stars": 8095,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1292,7 +1292,7 @@
                 "open_issues": 247,
                 "owner": "NVIDIA",
                 "repo": "pix2pixHD",
-                "stars": 6926,
+                "stars": 6927,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1552,7 +1552,7 @@
                 "open_issues": 142,
                 "owner": "sanghyun-son",
                 "repo": "EDSR-PyTorch",
-                "stars": 2633,
+                "stars": 2634,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2081,10 +2081,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-07T23:22:52Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37282,
+                "stars": 37283,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2123,10 +2123,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-07T23:22:52Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37282,
+                "stars": 37283,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2175,7 +2175,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34579,
+                "stars": 34578,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2557,7 +2557,7 @@
                 "open_issues": 57,
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11176,
+                "stars": 11177,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T01:45:37.702Z",
+    "last_updated": "2026-11-14T01:23:51.805Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
