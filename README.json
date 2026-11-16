@@ -149,7 +149,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77632,
+                "stars": 77629,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -277,7 +277,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77632,
+                "stars": 77629,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -298,7 +298,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77632,
+                "stars": 77629,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -557,7 +557,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77632,
+                "stars": 77629,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -578,7 +578,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77632,
+                "stars": 77629,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -599,7 +599,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77632,
+                "stars": 77629,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -620,7 +620,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77632,
+                "stars": 77629,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -641,7 +641,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77632,
+                "stars": 77629,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1166,7 +1166,7 @@
                 "open_issues": 589,
                 "owner": "junyanz",
                 "repo": "pytorch-CycleGAN-and-pix2pix",
-                "stars": 25278,
+                "stars": 25276,
                 "topics": [
                   "computer-graphics",
                   "computer-vision",
@@ -1241,7 +1241,7 @@
                 "open_issues": 67,
                 "owner": "yunjey",
                 "repo": "stargan",
-                "stars": 5297,
+                "stars": 5296,
                 "topics": [
                   "cvpr2018",
                   "generative-models",
@@ -1349,7 +1349,7 @@
                 "open_issues": 0,
                 "owner": "albumentations-team",
                 "repo": "albumentations",
-                "stars": 15297,
+                "stars": 15296,
                 "topics": [
                   "augmentation",
                   "deep-learning",
@@ -1573,7 +1573,7 @@
                 "open_issues": 13,
                 "owner": "osmr",
                 "repo": "imgclsmob",
-                "stars": 3012,
+                "stars": 3011,
                 "topics": [
                   "3d-face-reconstruction",
                   "chainer",
@@ -2084,7 +2084,7 @@
                 "open_issues": 23,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37284,
+                "stars": 37285,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2126,7 +2126,7 @@
                 "open_issues": 23,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37284,
+                "stars": 37285,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2175,7 +2175,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34579,
+                "stars": 34580,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T00:57:59.698Z",
+    "last_updated": "2026-11-16T00:55:49.323Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
