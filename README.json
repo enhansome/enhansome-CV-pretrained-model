@@ -149,7 +149,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77628,
+                "stars": 77630,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -170,7 +170,7 @@
                 "open_issues": 2020,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25578,
+                "stars": 25579,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -197,7 +197,7 @@
                 "open_issues": 271,
                 "owner": "smallcorgi",
                 "repo": "Faster-RCNN_TF",
-                "stars": 2343,
+                "stars": 2341,
                 "topics": [
                   "detection",
                   "faster-rcnn",
@@ -243,7 +243,7 @@
                 "open_issues": 641,
                 "owner": "thtrieu",
                 "repo": "darkflow",
-                "stars": 6138,
+                "stars": 6137,
                 "topics": [
                   "convolutional-networks",
                   "convolutional-neural-networks",
@@ -277,7 +277,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77628,
+                "stars": 77630,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -298,7 +298,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77628,
+                "stars": 77630,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -319,7 +319,7 @@
                 "open_issues": 14,
                 "owner": "pavelgonchar",
                 "repo": "colornet",
-                "stars": 3545,
+                "stars": 3543,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -340,7 +340,7 @@
                 "open_issues": 153,
                 "owner": "tensorlayer",
                 "repo": "SRGAN",
-                "stars": 3468,
+                "stars": 3466,
                 "topics": [
                   "cnn",
                   "gan",
@@ -371,7 +371,7 @@
                 "open_issues": 13,
                 "owner": "trailbehind",
                 "repo": "DeepOSM",
-                "stars": 1330,
+                "stars": 1328,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -392,7 +392,7 @@
                 "open_issues": 11,
                 "owner": "yunjey",
                 "repo": "domain-transfer-network",
-                "stars": 863,
+                "stars": 862,
                 "topics": [
                   "domain-transfer",
                   "image-generation",
@@ -557,7 +557,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77628,
+                "stars": 77630,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -578,7 +578,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77628,
+                "stars": 77630,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -599,7 +599,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77628,
+                "stars": 77630,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -620,7 +620,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77628,
+                "stars": 77630,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -641,7 +641,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77628,
+                "stars": 77630,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -669,7 +669,7 @@
                 "open_issues": 2020,
                 "owner": "matterport",
                 "repo": "Mask_RCNN",
-                "stars": 25578,
+                "stars": 25579,
                 "topics": [
                   "instance-segmentation",
                   "keras",
@@ -696,7 +696,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -717,7 +717,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -738,7 +738,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -759,7 +759,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -780,7 +780,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -801,7 +801,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -822,7 +822,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -843,7 +843,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -864,7 +864,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -906,7 +906,7 @@
                 "open_issues": 166,
                 "owner": "divamgupta",
                 "repo": "image-segmentation-keras",
-                "stars": 3001,
+                "stars": 3002,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -990,7 +990,7 @@
                 "open_issues": 24,
                 "owner": "tdeboissiere",
                 "repo": "DeepLearningImplementations",
-                "stars": 1809,
+                "stars": 1808,
                 "topics": [
                   "deep-learning-papers"
                 ]
@@ -1013,7 +1013,7 @@
                 "open_issues": 24,
                 "owner": "tdeboissiere",
                 "repo": "DeepLearningImplementations",
-                "stars": 1809,
+                "stars": 1808,
                 "topics": [
                   "deep-learning-papers"
                 ]
@@ -1036,7 +1036,7 @@
                 "open_issues": 147,
                 "owner": "eriklindernoren",
                 "repo": "Keras-GAN",
-                "stars": 9202,
+                "stars": 9200,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1063,7 +1063,7 @@
                 "open_issues": 147,
                 "owner": "eriklindernoren",
                 "repo": "Keras-GAN",
-                "stars": 9202,
+                "stars": 9200,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1090,7 +1090,7 @@
                 "open_issues": 147,
                 "owner": "eriklindernoren",
                 "repo": "Keras-GAN",
-                "stars": 9202,
+                "stars": 9200,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1124,7 +1124,7 @@
                 "open_issues": 599,
                 "owner": "facebookresearch",
                 "repo": "detectron2",
-                "stars": 34994,
+                "stars": 34995,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1145,7 +1145,7 @@
                 "open_issues": 57,
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11176,
+                "stars": 11175,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1220,7 +1220,7 @@
                 "open_issues": 70,
                 "owner": "DmitryUlyanov",
                 "repo": "deep-image-prior",
-                "stars": 8094,
+                "stars": 8093,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1268,7 +1268,7 @@
                 "open_issues": 422,
                 "owner": "jwyang",
                 "repo": "faster-rcnn.pytorch",
-                "stars": 7858,
+                "stars": 7856,
                 "topics": [
                   "faster-rcnn",
                   "pytorch"
@@ -1323,7 +1323,7 @@
                 "open_issues": 139,
                 "owner": "mdbloice",
                 "repo": "Augmentor",
-                "stars": 5131,
+                "stars": 5130,
                 "topics": [
                   "augmentation",
                   "deep-learning",
@@ -1383,7 +1383,7 @@
                 "open_issues": 82,
                 "owner": "CSAILVision",
                 "repo": "semantic-segmentation-pytorch",
-                "stars": 5088,
+                "stars": 5089,
                 "topics": [
                   "ade20k",
                   "pytorch",
@@ -1409,7 +1409,7 @@
                 "open_issues": 91,
                 "owner": "bgshih",
                 "repo": "crnn",
-                "stars": 2103,
+                "stars": 2102,
                 "topics": [
                   "computer-vision",
                   "machine-learning",
@@ -1436,7 +1436,7 @@
                 "open_issues": 5,
                 "owner": "mingyuliutw",
                 "repo": "UNIT",
-                "stars": 2026,
+                "stars": 2024,
                 "topics": [
                   "deep-learning",
                   "gan",
@@ -1462,7 +1462,7 @@
                 "open_issues": 12,
                 "owner": "jiesutd",
                 "repo": "NCRFpp",
-                "stars": 1900,
+                "stars": 1899,
                 "topics": [
                   "artificial-intelligence",
                   "char-cnn",
@@ -1500,7 +1500,7 @@
                 "open_issues": 71,
                 "owner": "longcw",
                 "repo": "faster_rcnn_pytorch",
-                "stars": 1779,
+                "stars": 1778,
                 "topics": [
                   "computer-vision",
                   "detection",
@@ -1526,7 +1526,7 @@
                 "open_issues": 48,
                 "owner": "zijundeng",
                 "repo": "pytorch-semantic-segmentation",
-                "stars": 1735,
+                "stars": 1733,
                 "topics": [
                   "deep-learning",
                   "fully-convolutional-networks",
@@ -1552,7 +1552,7 @@
                 "open_issues": 142,
                 "owner": "sanghyun-son",
                 "repo": "EDSR-PyTorch",
-                "stars": 2634,
+                "stars": 2633,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1573,7 +1573,7 @@
                 "open_issues": 13,
                 "owner": "osmr",
                 "repo": "imgclsmob",
-                "stars": 3011,
+                "stars": 3010,
                 "topics": [
                   "3d-face-reconstruction",
                   "chainer",
@@ -1701,7 +1701,7 @@
                 "open_issues": 11,
                 "owner": "ignacio-rocco",
                 "repo": "detectorch",
-                "stars": 559,
+                "stars": 558,
                 "topics": [
                   "detectron",
                   "instance-segmentation",
@@ -1750,7 +1750,7 @@
                 "open_issues": 59,
                 "owner": "fxia22",
                 "repo": "pointnet.pytorch",
-                "stars": 2364,
+                "stars": 2363,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -1869,7 +1869,7 @@
                 "open_issues": 25,
                 "owner": "twtygqyy",
                 "repo": "pytorch-SRResNet",
-                "stars": 513,
+                "stars": 512,
                 "topics": [
                   "pytorch",
                   "pytorch-srresnet",
@@ -2043,7 +2043,7 @@
                 "open_issues": 34,
                 "owner": "mlmed",
                 "repo": "torchxrayvision",
-                "stars": 1218,
+                "stars": 1216,
                 "topics": [
                   "chest-radiographs",
                   "chest-xray",
@@ -2080,11 +2080,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T23:09:49Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-19T22:39:55Z",
+                "open_issues": 20,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37290,
+                "stars": 37294,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2122,11 +2122,11 @@
                 "id": 168799526,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T23:09:49Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-19T22:39:55Z",
+                "open_issues": 20,
                 "owner": "huggingface",
                 "repo": "pytorch-image-models",
-                "stars": 37290,
+                "stars": 37294,
                 "topics": [
                   "augmix",
                   "convnext",
@@ -2175,7 +2175,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34596,
+                "stars": 34602,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2217,7 +2217,7 @@
                 "open_issues": 0,
                 "owner": "shelhamer",
                 "repo": "fcn.berkeleyvision.org",
-                "stars": 3352,
+                "stars": 3351,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2266,7 +2266,7 @@
                 "open_issues": 73,
                 "owner": "YuwenXiong",
                 "repo": "py-R-FCN",
-                "stars": 1045,
+                "stars": 1044,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2422,7 +2422,7 @@
                 "open_issues": 20,
                 "owner": "jessemelpolio",
                 "repo": "Faster_RCNN_for_DOTA",
-                "stars": 339,
+                "stars": 338,
                 "topics": [
                   "aerial",
                   "detection",
@@ -2469,7 +2469,7 @@
                 "open_issues": 6,
                 "owner": "liangfu",
                 "repo": "mxnet-mobilenet-v2",
-                "stars": 128,
+                "stars": 127,
                 "topics": [
                   "mobilenetv2",
                   "mxnet",
@@ -2557,7 +2557,7 @@
                 "open_issues": 57,
                 "owner": "NVIDIA",
                 "repo": "FastPhotoStyle",
-                "stars": 11176,
+                "stars": 11175,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:17:42.961Z"
@@ -2572,7 +2572,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:28:44.825Z",
+    "last_updated": "2026-11-20T02:13:31.552Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of computer vision pre-trained models.",
@@ -2584,7 +2584,7 @@
       "open_issues": 1,
       "owner": "balavenkatesh3322",
       "repo": "CV-pretrained-model",
-      "stars": 1371,
+      "stars": 1370,
       "topics": [
         "awesome-list",
         "computer-vision",
